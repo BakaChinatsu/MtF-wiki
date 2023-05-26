@@ -1,5 +1,5 @@
 ---
-title: はたらく人・学生のメンタルクリニック
+title: 大阪市・はたらく人・学生のメンタルクリニック
 ---
 
 精神科・心療内科
@@ -17,11 +17,11 @@ title: はたらく人・学生のメンタルクリニック
 - 親権者（両親）の同意書（写真参照）があればホルモン注射できる病院を紹介してくれる。（親権者の同意が難しい場合は自分で探せば良いとのこと）
 - 性別違和の診断書を発行するには誓約書に記入する必要がある（写真参照）
 
-診断書</br>
+診断書<br>
 <image src="proof.jpg" alt="診断書" width="50%" height="50%" title="診断書" />
 
-誓約書</br>
+誓約書<br>
 <image src="pledge.jpg" alt="誓約書" width="50%" height="50%" title="誓約書" />
 
-同意書</br>
-<image src="agreement_form.jpg" alt="同意書" width="50%" height="50%" title="同意書" />
+同意書<br>
+<image src="greement_form.jpg" alt="同意書" width="50%" height="50%" title="同意書" />
