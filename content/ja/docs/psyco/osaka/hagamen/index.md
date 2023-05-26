@@ -24,4 +24,4 @@ title: 大阪市・はたらく人・学生のメンタルクリニック
 <image src="pledge.jpg" alt="誓約書" width="50%" height="50%" title="誓約書" />
 
 同意書<br>
-<image src="greement_form.jpg" alt="同意書" width="50%" height="50%" title="同意書" />
+<image src="agreement_form.jpg" alt="同意書" width="50%" height="50%" title="同意書" />
